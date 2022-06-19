@@ -7,3 +7,4 @@
 ## Tutorial HTML:
 * [UHGG Genomes](https://htmlpreview.github.io/?https://github.com/tli14/Workshop_2022_YinLab/blob/main/Tutorial_html/UHGG_genomes.html): UHGG Bacteroides isolate genomes/MAGs & statistics visualization.
 
+* [CGC Clustering](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tli14/Workshop_2022_YinLab/main/Tutorial_html/cgc_seq_substr_clustering.html): CGC clustering using affinity propagation algorithm.
